@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @2c0f1
+- 👀 I am interested in learning new programming languages using reverse code in open code available on the web
